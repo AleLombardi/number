@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class startApp {
 
     public static void main(String[] args) {
-
+        //questo è un commento
         int[] valori = {5, 5, 5, 5, 5, 5, 6, 5, 5, 5};
 
         boolean ok = true;
