@@ -16,7 +16,7 @@ public class startApp {
     public static void main(String[] args) {
         //questo è un commento
         int[] valori = {5, 5, 5, 5, 5, 5, 6, 5, 5, 5};
-
+        //prova
         boolean ok = true;
         for (int x : valori) {
             if (x != valori[0]) {
